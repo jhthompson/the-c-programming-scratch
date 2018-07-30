@@ -1,2 +1,2 @@
 # the-c-programming-scratch
-Scratch files as I read The C Programming Language
+Scratch files to test and follow along with examples in The C Programming Language book.
